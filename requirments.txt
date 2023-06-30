@@ -1,0 +1,7 @@
+argcomplete
+argparse
+requests
+termcolor
+tqdm
+urllib3
+
