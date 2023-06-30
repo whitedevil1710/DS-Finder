@@ -44,10 +44,7 @@ The tool will check the status codes of each IP address and display the results.
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request. For major changes, please open an issue first to discuss the changes you would like to make.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or inquiries, please feel free to reach out to me via [email](mailto:your-email@example.com) or [Twitter](https://twitter.com/your-username).
+If you have any questions or inquiries, please feel free to reach out to me via [email](mailto:vipinvenu4a4@gmail.com).
