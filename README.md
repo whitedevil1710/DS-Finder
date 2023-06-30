@@ -13,7 +13,7 @@ The DS-finder is a command-line tool written in Python that allows you to find t
 
 1. Clone the repository:
 ```
-git clone https://github.com/whitedevil1710/ip-status-checker.git
+https://github.com/whitedevil1710/DS-Finder.git
 ```
 
 
